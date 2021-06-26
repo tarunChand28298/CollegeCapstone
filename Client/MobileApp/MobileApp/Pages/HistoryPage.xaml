@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:charts="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             x:Class="MobileApp.Pages.HistoryPage"
+             Title="History">
+    
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <charts:ChartView HeightRequest="150" x:Name="TemperatureChart"/>
+                <charts:ChartView HeightRequest="150" x:Name="HumidityChart"/>
+                <charts:ChartView HeightRequest="150" x:Name="PulseChart"/>
+                <charts:ChartView HeightRequest="150" x:Name="Spo2Chart"/>
+                <Button Text="Update" Clicked="Update_Charts_Button_Clicked"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

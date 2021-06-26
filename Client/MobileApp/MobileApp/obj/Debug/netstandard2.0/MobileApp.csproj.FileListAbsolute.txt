@@ -1,0 +1,16 @@
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\bin\Debug\netstandard2.0\ref\MobileApp.dll
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\MainShell.xaml.g.cs
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\ref\MobileApp.dll
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\Pages\DashboardPage.xaml.g.cs
+D:\Work\capstone\Components\Client\MobileApp\MobileApp\obj\Debug\netstandard2.0\Pages\HistoryPage.xaml.g.cs

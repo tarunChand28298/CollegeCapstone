@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Work\capstone\Components\Server\ServerApplication\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2021-06-07T04:25:07.2780370Z;True|2021-06-07T09:48:55.8874622+05:30;True|2021-06-07T09:34:27.3936342+05:30;True|2021-06-06T14:11:24.4693691+05:30;True|2021-06-05T15:35:54.0347802+05:30;</History>
+  </PropertyGroup>
+</Project>

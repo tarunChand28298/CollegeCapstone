@@ -1,0 +1,10 @@
+D:\Work\capstone\Components\Server\ServerML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Work\capstone\Components\Server\ServerML.Model\bin\Debug\netstandard2.0\ServerML.Model.deps.json
+D:\Work\capstone\Components\Server\ServerML.Model\bin\Debug\netstandard2.0\ServerML.Model.dll
+D:\Work\capstone\Components\Server\ServerML.Model\bin\Debug\netstandard2.0\ServerML.Model.pdb
+D:\Work\capstone\Components\Server\ServerML.Model\obj\Debug\netstandard2.0\ServerML.Model.csprojAssemblyReference.cache
+D:\Work\capstone\Components\Server\ServerML.Model\obj\Debug\netstandard2.0\ServerML.Model.AssemblyInfoInputs.cache
+D:\Work\capstone\Components\Server\ServerML.Model\obj\Debug\netstandard2.0\ServerML.Model.AssemblyInfo.cs
+D:\Work\capstone\Components\Server\ServerML.Model\obj\Debug\netstandard2.0\ServerML.Model.csproj.CoreCompileInputs.cache
+D:\Work\capstone\Components\Server\ServerML.Model\obj\Debug\netstandard2.0\ServerML.Model.dll
+D:\Work\capstone\Components\Server\ServerML.Model\obj\Debug\netstandard2.0\ServerML.Model.pdb

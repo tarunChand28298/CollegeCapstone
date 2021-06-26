@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApp.Pages.DashboardPage"
+             Title="Dashboard">
+    
+    <ContentPage.Content>
+        <StackLayout Spacing="10" Padding="10">
+            <Frame HasShadow="True">
+                <StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="🌡 Crib Temperature: " FontAttributes="Bold"/>
+                        <Label Text="" x:Name="TemperatureLable"/>
+                    </StackLayout>
+                        
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="🌊 Crib Humidity: " FontAttributes="Bold"/>
+                        <Label Text="" x:Name="HumidityLable"/>
+                    </StackLayout>
+                    
+                    <Button Text="Update" Clicked="Update_Button_Clicked"/>
+                </StackLayout>
+            </Frame>
+
+
+            <Frame HasShadow="True">
+                <StackLayout Spacing="5">
+                    <Label Text="Set Temperature" FontAttributes="Bold"/>
+                    <Label HorizontalOptions="Center" VerticalOptions="Center" FontSize="Large" x:Name="SliderBindedValue"/>
+                    <Slider MaximumTrackColor="Black" 
+                        MinimumTrackColor="Black" 
+                        HeightRequest="50" 
+                        ThumbColor="Black"
+                        ThumbImageSource="iconsc.png"
+                        ValueChanged="Slider_ValueChanged"/>
+                    <Button Text="Confirm" Clicked="Button_Clicked"/>
+                </StackLayout>
+            </Frame>
+            <Frame HasShadow="True">
+                <StackLayout>
+                    <StackLayout>
+                        <Label Text="Prediction: " FontAttributes="Bold"/>
+                        <Label Text="" x:Name="PredictionLable"/>
+                    </StackLayout>
+                    <StackLayout>
+                        <Label Text="Recommendation: " FontAttributes="Bold"/>
+                        <Label Text="" x:Name="RecommendationLable"/>
+                    </StackLayout>
+                    <Button Text="Get Prediction" Clicked="Prediction_Update_Clicked"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
